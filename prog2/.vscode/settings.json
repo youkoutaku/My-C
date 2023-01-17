@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "freeglut.h": "c",
+        "r18-20t1126n.h": "c"
+    }
+}
