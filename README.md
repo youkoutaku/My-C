@@ -32,5 +32,3 @@
   - [5_1](https://github.com/youkoutaku/My-C/blob/main/Algorithm/5_1.c)
 
 ## CV
-
-## C program
